@@ -36,32 +36,32 @@
             <div class="photosDvs">
                <figure>
                   <div class="img_wrap">
-                     <img src="images/simulators-img-1.png" height="" width="" alt="" title="" />
+                     <img src="images/simulators-img-1.png" height="" width="" alt="simulators" title="simulators" />
                   </div>
                </figure>
                <figure>
                   <div class="img_wrap">
-                     <img src="images/simulators-img-2.png" height="" width="" alt="" title="" />
+                     <img src="images/simulators-img-2.png" height="100%" width="100%" alt="simulators" title="simulators" />
                   </div>
                </figure>
                <figure>
                   <div class="img_wrap">
-                     <img src="images/simulators-img-6.jpg" height="" width="" alt="" title="" />
+                     <img src="images/simulators-img-6.jpg" height="100%" width="100%" alt="simulators" title="simulators" />
                   </div>
                </figure>
                <figure>
                   <div class="img_wrap">
-                     <img src="images/simulators-img-3.jpg" height="" width="" alt="" title="" />
+                     <img src="images/simulators-img-3.jpg" height="100%" width="100%" alt="simulators" title="simulators" />
                   </div>
                </figure>
                <figure>
                   <div class="img_wrap">
-                     <img src="images/simulators-img-4.jpg" height="" width="" alt="" title="" />
+                     <img src="images/simulators-img-4.jpg" height="100%" width="100%" alt="simulators" title="simulators" />
                   </div>
                </figure>
                <figure>
                   <div class="img_wrap">
-                     <img src="images/simulators-img-5.jpg" height="" width="" alt="" title="" />
+                     <img src="images/simulators-img-5.jpg" height="100%" width="100%" alt="simulators" title="simulators" />
                   </div>
                </figure>
             </div>

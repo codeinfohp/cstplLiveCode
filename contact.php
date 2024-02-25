@@ -36,7 +36,7 @@
             <div class="address_details">
                <div class="cont-text" data-aos="fade-right">
                   <div class="heading">
-                     <h2 class="h2">Corporate Office</h2>
+                     <h2 class="h2">Noida <br> Corporate Office</h2>
                   </div>
                   <span>CAE Simulation Training Private Limited :</span>
                   <span>Plot No. 25/3, Knowledge Park - III, Gautam Buddha Nagar,</span>
@@ -44,10 +44,11 @@
                   <span>cstplsales@cae.com </span>
                   <span>0120 – 6777121</span>
                   <span><strong>GSTIN:</strong> 09AAECC7113K1ZL</span>
+                  <span><strong>Google Map Link:</strong> <a href="https://maps.app.goo.gl/ZFNsHdcLhKF7VZ1j7">Click Here</a> </span>
                </div>
                <div class="cont-text" data-aos="fade-right">
                   <div class="heading">
-                     <h2 class="h2">Bengaluru Branch Office</h2>
+                     <h2 class="h2">Bengaluru <br> Branch Office</h2>
                   </div>
                   <span>CAE Simulation Training Private Limited :</span>
                   <span>IVC Road, Survey No. 26,27, Bandaramanahalli Village</span>
@@ -56,10 +57,11 @@
                   <span>cstplsales@cae.com</span>
                   <span>080 - 42854005</span>
                   <span><strong>GSTIN:</strong> 29AAECC7113K1ZJ</span>
+                  <span><strong>Google Map Link:</strong> <a href="https://maps.app.goo.gl/GpBTJfU2t1N7e6MB8">Click Here</a> </span>
                </div>
                <div class="cont-text" data-aos="fade-right">
                   <div class="heading">
-                     <h2 class="h2">Gurugram Branch Office</h2>
+                     <h2 class="h2">Gurugram <br> Branch Office</h2>
                   </div>
                   <span>CAE Simulation Training Private Limited :</span>
                   <span>Plot No. 374, Udyog Vihar, Phase -4, Gurugram,</span>
@@ -67,31 +69,10 @@
                   <span>cstplsales@cae.com </span>
                   <span>0124 - 6137000</span>
                   <span><strong>GSTIN:</strong> 06AAECC7113K2ZQ</span>
+                  <span><strong>Google Map Link:</strong> <a href="https://maps.app.goo.gl/ZcufuWNXiJ5FeY1Q8">Click Here</a> </span>
                </div>
             </div>
-            <div class="add_map">
-               <div class="cont-text" data-aos="fade-right">
-                  <span>Greater Noida</span>
-                  <iframe
-                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.060994688655!2d77.48160211455595!3d28.47770969782325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cea1038042361%3A0xceee6afcbe7c2542!2sCAE%20Simulation%20Training%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1671262039719!5m2!1sen!2sin"
-                     width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                     referrerpolicy="no-referrer-when-downgrade"></iframe>
-               </div>
-               <div class="cont-text" data-aos="fade-right">
-                  <span>Bengaluru</span>
-                  <iframe
-                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3883.932574586819!2d77.67539417028385!3d13.229547980707936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1d9253e82949%3A0x1d4c22ca29aa699a!2sCAE%20Simulator%20training!5e0!3m2!1sen!2sin!4v1708269416511!5m2!1sen!2sin"
-                     width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                     referrerpolicy="no-referrer-when-downgrade"></iframe>
-               </div>
-               <div class="cont-text" data-aos="fade-right">
-                  <span>Gurugram</span>
-                  <iframe
-                     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.2116457304833!2d77.06686187450467!3d28.503279389940296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19554a4dc861%3A0x7d985337505bd7a9!2sCAE%20Simulation%20Training%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1708269456341!5m2!1sen!2sin"
-                     width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"
-                     referrerpolicy="no-referrer-when-downgrade"></iframe>
-               </div>
-            </div>
+            
          </div>
       </section>
       <?php include("widgets/footer.php"); ?>
